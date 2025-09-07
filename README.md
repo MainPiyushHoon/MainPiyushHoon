@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Piyush Verma
 =====================================================================================================================================
 
-Studemt
+Student
 -------
 
 I’m a Computer Science student passionate about technology and creativity. Currently, I’m exploring the world of C++ and Python, while also starting my journey with HTML and soon Java.
