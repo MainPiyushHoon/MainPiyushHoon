@@ -19,7 +19,7 @@ I’m a Computer Science student passionate about technology and creativity. Cur
 I’m always open to collaborations, mentorship, and project ideas that can help me grow into a better developer. 🚀
 
 * 🌍  I'm based in India
-* 🧠  I'm currently learning Python , C++ , Web Devlopment , Cloud Computing (AWS/GCP)
+* 🧠  I'm currently learning Python , C++ , Web Devlopment , Cloud Computing (AWS/GCP) and Working For SIH 2025
 * 💬  Ask me about  Gaming and Music in free time
 
 <p align="left">
